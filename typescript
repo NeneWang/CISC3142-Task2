@@ -72,4 +72,88 @@ Apple clang version 11.0.0 (clang-1100.0.33.17)
 Target: x86_64-apple-darwin21.4.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [K[?1h=[?2004hccd 
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;git[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/nenewang/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/.git/
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add Ex1[1m/[0m[0m/( *[?1l>[?2004l
+]2;git add Ex1/*]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add tutorial[1m/[0m[0m         typescript[1m [0m[0m [?1l>[?2004l
+]2;git add typescript]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m ""t"a"s"k"2" "C"I"S"C"3"2"" 1"4"2"[?1l>[?2004l
+]2;git commit -m "task2 CISC3142"]1;git[master (root-commit) ecbe77f] task2 CISC3142
+ 4 files changed, 80 insertions(+)
+ create mode 100644 Ex1/HelloWorld.cpp
+ create mode 100644 Ex1/Readme.md
+ create mode 100755 Ex1/a.out
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit p git     g  [7mgit remote add origin https://github.com/NeneWang/CISC3142-Task2.git[27m[68D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mN[27me[27mn[27me[27mW[27ma[27mn[27mg[27m/[27mC[27mI[27mS[27mC[27m3[27m1[27m4[27m2[27m-[27mT[27ma[27ms[27mk[27m2[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/NeneWang/CISC3142-Task2.git]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit push origin master[?1l>[?2004l
+]2;git push origin master]1;gitEnumerating objects: 7, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 6 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  71% (5/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 4.35 KiB | 4.35 MiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/NeneWang/CISC3142-Task2.git
+ * [new branch]      master -> master
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit co  commit -m ""g"i"t" "c"h"a"n"g"e"s"[?1l>[?2004l
+]2;git commit -m "git changes"]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.DS_Store[m
+	[31mEx1/.DS_Store[m
+	[31mtutorial/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;31m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggig  ggit git add      add tutorial[1m/[0m[0m/*[?1l>[?2004l
+]2;git add tutorial/*]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit push ori       c  commit -m ""t"u"t"o"r"i"a"l" "a"d"d"e"d"[?1l>[?2004l
+]2;git commit -m "tutorial added"]1;git[master c65f72d] tutorial added
+ 2 files changed, 14 insertions(+)
+ create mode 100755 tutorial/helloWord
+ create mode 100644 tutorial/helloWord.cpp
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit push origin M main  ster[?1l>[?2004l
+]2;git push origin master]1;gitEnumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 6 threads
+Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 4.60 KiB | 4.60 MiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/NeneWang/CISC3142-Task2.git
+   ecbe77f..c65f72d  master -> master
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner]1;..+/code-runner[0m[27m[24m[J[01;32m➜  [36mcode-runner[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd Ex1[1m/[0m[0m [?1l>[?2004l
+]2;cd Ex1]1;cd[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmmkdir loggg[?1l>[?2004l
+]2;mkdir loggg]1;mkdir[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccmove loggg[1m/[0m[0m logs[?1l>[?2004l
+]2;cmove loggg logs]1;cmovezsh: command not found: cmove
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;31m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmmv loggg[1m/[0m[0m logs[?1l>[?2004l
+]2;mv loggg logs]1;mv[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmmkdir src[?1l>[?2004l
+]2;mkdir src]1;mkdir[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add m logs[1m/[0m[0m [?1l>[?2004l
+]2;git add logs]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add log   src[1m/[0m[0m [?1l>[?2004l
+]2;git add src]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m ""l"o"g"s" "a"n"d" "s"r"c" "a"d"d"e"d"[?1l>[?2004l
+]2;git commit -m "logs and src added"]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../.DS_Store[m
+	[31m.DS_Store[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;31m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit g  ggit push origin H MA  master[?1l>[?2004l
+]2;git push origin master]1;gitEverything up-to-date
+[1m[7m%[27m[1m[0m                                                                                                      ]2;nenewang@Nenes-MBP:~/Desktop/GIT/standard-CoursesRepository/classes/C++/code-runner/Ex1]1;..de-runner/Ex1[0m[27m[24m[J[01;32m➜  [36mEx1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit 
